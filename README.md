@@ -37,6 +37,7 @@ personal readling list
 3. 刀锋 by 毛姆 , at 2008年9月
 4. 吉檀枷利 by 泰戈尔, at 2008年9月
 5. :+1: 悉达多 by 黑塞 , at 2015年8月
+6. :+1: 霍乱时期的爱情 by 加西亚·马尔克斯 , at 2016年1月
 
 ## 杂类
 1. :+1: The Design of Everyday Things by Don Norman , at 2016年6月 - 2017年3月
