@@ -24,7 +24,8 @@ personal readling list
 5. :+1: 思想录 by 帕斯卡 , at 2008年12月
 6. 禅与心理分析  by 铃木大拙 / 佛洛姆 , at 2012年11月
 7. 马斯洛说完美性格  by 马斯洛 , at 2013年4月
-8. 恋人絮语 by 罗兰巴特 , at 2016年6月
+8. :+1: Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig , at 2014年 - 2015年1月
+9. 恋人絮语 by 罗兰巴特 , at 2016年6月
 
 ## 传记
 1. :+1: Lust For Life by Irving Stone , at 2008年6月
