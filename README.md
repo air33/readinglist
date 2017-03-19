@@ -71,6 +71,7 @@ personal readling list
 
 ## 技术
 1. Living Clojure by Carin Meier , at 2016年
+2. Clojure for the Brave and True  by Daniel Higginbotham , at 2017年3月
 
 ## 杂类
 1. :+1: The Design of Everyday Things by Don Norman , at 2016年6月 - 2017年3月
