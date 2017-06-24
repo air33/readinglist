@@ -29,6 +29,7 @@ personal readling list
 1. 恋人絮语 by 罗兰巴特 , at 2016年6月
 1. 细说易经六十四卦 by 徐芹庭 , at 2012年2月
 1. 道不远人∶比较哲学视域中的《老子》 by 安乐哲（Roger T.Ames） / 郝大维（David L.Hall）, 何金俐译 , at 2008年10月
+1. :+1: [文学回忆录](notes/文学回忆录.md) by 木心 , at 2017年6月
 
 ## 文学
 
