@@ -63,6 +63,7 @@ personal readling list
 1. 火车 by 宫部美雪 , at 2015年7月
 1. 钟表馆幽灵 by 绫辻行人 , at 2017年4月
 1. 德米安 by 黑塞 , at 2017年5月
+1. [人间食粮](notes/人间食粮.md) by 安德烈纪德 , at 2017年8月
 
 ## 传记
 
