@@ -14,6 +14,7 @@ personal readling list
 - [历史](#历史)
 - [技术](#技术)
 - [杂类](#杂类)
+- [电影&游戏](#电影&游戏)
 
 
 ## 哲学
@@ -75,6 +76,7 @@ personal readling list
 
 1. 叫魂：1768年中国妖术大恐慌 by  孔飞力 , at 2016年8月
 1. [极简欧洲史](notes/极简欧洲史.md) by 约翰赫斯特 , at 2017年6月
+1. 枪炮、病菌与钢铁 by 贾雷德·戴蒙德 , at 2017年10月
 
 ## 技术
 
@@ -85,3 +87,10 @@ personal readling list
 
 1. :+1: The Design of Everyday Things by Don Norman , at 2016年6月 - 2017年3月
 1. 翻译的技巧 by 钱歌川 , at 2013年8月
+
+
+## 电影&游戏
+
+1. [Limbo](http://store.steampowered.com/app/48000/LIMBO/), by Playdead  , 2016年11月
+1. :+1: [Inside](http://store.steampowered.com/app/304430/INSIDE/), by Playdead , 2017年1月
+1. :+1: [Life is strange](http://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) , by DONTNOD , 2017年10月
