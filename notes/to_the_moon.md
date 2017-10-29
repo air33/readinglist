@@ -2,7 +2,9 @@ To the moon 去月球
 
 游戏的故事要素挺多，但不复杂，很感人。
 
-你忘了但我不会忘，我会一直暗示你但我不说；我忘了但我还是记得有不得不做的事。
+    你忘了但我不会忘，我会一直暗示你但我不说
+vs
+    我忘了但我还是记得有不得不做的事。
 
 ```
 River: “I wouldn’t mind. Just for once… to have the same name everyone else has. It’s like those lights in the sky… They all look the same from here, but that doesn’t make them any less pretty.”
