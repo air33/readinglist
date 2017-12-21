@@ -82,6 +82,7 @@ personal readling list
 
 1. Living Clojure by Carin Meier , at 2016年
 1. Clojure for the Brave and True  by Daniel Higginbotham , at 2017年3月
+1. The Practice of Cloud System Administration by Thomas A limoncelli , at 2017年12月
 
 ## 杂类
 
