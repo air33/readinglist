@@ -84,6 +84,7 @@ personal readling list
 1. Clojure for the Brave and True  by Daniel Higginbotham , at 2017年3月
 1. The Practice of Cloud System Administration by Thomas A limoncelli , at 2017年12月
 1. 数学之美 by 吴军 , at 2018年1月
+1. Python Machine Learning Second Edition by Sebastian Raschka & Vahid Mirjalili , at 2017年10月-2018年1月
 
 ## 杂类
 
