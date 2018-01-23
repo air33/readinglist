@@ -91,7 +91,7 @@ personal readling list
 1. :+1: The Design of Everyday Things by Don Norman , at 2016年6月 - 2017年3月
 1. 翻译的技巧 by 钱歌川 , at 2013年8月
 1. 目标 by 艾利·高德拉特 , at 2017年12月
-
+1. 失控 by 凯文凯利(Kevin Kelly) , at 2017年12月-2018年1月
 
 ## 电影&游戏
 
