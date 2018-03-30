@@ -31,6 +31,7 @@ personal readling list
 1. 细说易经六十四卦 by 徐芹庭 , at 2012年2月
 1. 道不远人∶比较哲学视域中的《老子》 by 安乐哲（Roger T.Ames） / 郝大维（David L.Hall）, 何金俐译 , at 2008年10月
 1. :+1: [文学回忆录](notes/文学回忆录.md) by 木心 , at 2017年6月
+1. 社会性动物 by Elliot Aronson , at 2018年3月-4月
 
 ## 文学
 
@@ -68,6 +69,9 @@ personal readling list
 1. 伊利亚特 by 荷马 , 罗念生译, at 2017年9月
 1. 1984 by 乔治·奥威尔 , at 2018年2月
 1. 了不起的盖茨比 by 菲茨杰拉德, at 2018年3月
+1. 黄金时代 by 王小波 , at 2018年3月
+1. 青梅竹马 by 樋口一叶 , at 2018年3月
+1. 我的精神家园 by 王小波 , at 2018年3月
 
 ## 传记
 
