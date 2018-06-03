@@ -101,6 +101,8 @@ personal readling list
 1. 目标 by 艾利·高德拉特 , at 2017年12月
 1. 失控 by 凯文凯利(Kevin Kelly) , at 2017年12月-2018年1月
 1. 世界上最简单的会计书 by 世界上最简单的会计书 , at 2018年5月
+1. 启示录 by Marty Cagan , at 2018年5月
+1. 时间管理 - 给系统管理员 by Thomas A. Limoncelli , at 2018年6月
 
 ## 电影&游戏
 
