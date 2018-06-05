@@ -85,7 +85,7 @@ personal readling list
 1. 叫魂：1768年中国妖术大恐慌 by  孔飞力 , at 2016年8月
 1. [极简欧洲史](notes/极简欧洲史.md) by 约翰赫斯特 , at 2017年6月
 1. 枪炮、病菌与钢铁 by 贾雷德·戴蒙德 , at 2017年10月
-1. 万历十五年 by 黄仁宇 , at 2017年12月
+1. 万历十五年 by 黄仁宇 , at 2017年11月
 1. 伟大的博弈 by 约翰S.戈登 , at 2018年2月
 1. 人类简史 by 尤瓦尔·赫拉利 , at 2018年4月
 
@@ -96,6 +96,7 @@ personal readling list
 1. The Practice of Cloud System Administration by Thomas A limoncelli , at 2017年12月
 1. 数学之美 by 吴军 , at 2018年1月
 1. Python Machine Learning Second Edition by Sebastian Raschka & Vahid Mirjalili , at 2017年10月-2018年1月
+1. :+1: 持续交付-发布可靠软件的系统方法 by Jez Humble & David Farley , at 2018年6月
 
 ## 杂类
 
