@@ -98,6 +98,7 @@ personal readling list
 1. Python Machine Learning Second Edition by Sebastian Raschka & Vahid Mirjalili , at 2017年10月-2018年1月
 1. :+1: 持续交付-发布可靠软件的系统方法 by Jez Humble & David Farley , at 2018年6月
 1. [构建之法](notes/构建之法.md) by 邹欣 , at 2018年6月
+1. [数据化运营速成手册](notes/数据化运营速成手册.md) by 胡晨川 , at 2018年6月
 
 ## 杂类
 
