@@ -109,6 +109,8 @@ personal readling list
 1. 世界上最简单的会计书 by 世界上最简单的会计书 , at 2018年5月
 1. 启示录 by Marty Cagan , at 2018年5月
 1. 时间管理 - 给系统管理员 by Thomas A. Limoncelli , at 2018年6月
+1. 经济学的思维方式 by 保罗·海恩 , at 2018年6月
+1. 经济解释 by 张五常 , at 2018年7月-2018年8月
 
 ## 电影&游戏
 
