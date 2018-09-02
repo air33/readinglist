@@ -100,6 +100,7 @@ personal readling list
 1. [构建之法](notes/构建之法.md) by 邹欣 , at 2018年6月
 1. [数据化运营速成手册](notes/数据化运营速成手册.md) by 胡晨川 , at 2018年6月
 
+
 ## 杂类
 
 1. :+1: The Design of Everyday Things by Don Norman , at 2016年6月 - 2017年3月
@@ -111,6 +112,8 @@ personal readling list
 1. 时间管理 - 给系统管理员 by Thomas A. Limoncelli , at 2018年6月
 1. 经济学的思维方式 by 保罗·海恩 , at 2018年6月
 1. 经济解释 by 张五常 , at 2018年7月-2018年8月
+1. 重来 by [美] 贾森·弗里德 / [丹] 戴维·海涅迈尔·汉森 , at 2018年8月
+1. 女士品茶 by 戴维·萨尔斯伯格 , at 2018年6月-9月
 
 ## 电影&游戏
 
