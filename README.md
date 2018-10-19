@@ -101,7 +101,7 @@ personal readling list
 1. [数据化运营速成手册](notes/数据化运营速成手册.md) by 胡晨川 , at 2018年6月
 1. [Google软件测试之道](notes/Google软件测试之道.md) by  James A. Whittaker / Jason Arbon / Jeff Carollo , at 2018年9月
 1. 凤凰项目 by 基恩·金 (Gene Kim) / 凯文·贝尔 (Kevin Behr) / 乔治·斯帕福德 (George Spafford) , at 2018年9月
-1. 启示录 by Marty Cagan , at 2018年8月
+
 
 ## 杂类
 
