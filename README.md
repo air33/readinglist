@@ -32,6 +32,7 @@ personal readling list
 1. 道不远人∶比较哲学视域中的《老子》 by 安乐哲（Roger T.Ames） / 郝大维（David L.Hall）, 何金俐译 , at 2008年10月
 1. :+1: [文学回忆录](notes/文学回忆录.md) by 木心 , at 2017年6月
 1. 社会性动物 by Elliot Aronson , at 2018年3月-4月
+1. 有限与无限的游戏 by 詹姆斯.卡斯 at 2018年10月
 
 ## 文学
 
@@ -100,7 +101,10 @@ personal readling list
 1. [构建之法](notes/构建之法.md) by 邹欣 , at 2018年6月
 1. [数据化运营速成手册](notes/数据化运营速成手册.md) by 胡晨川 , at 2018年6月
 1. [Google软件测试之道](notes/Google软件测试之道.md) by  James A. Whittaker / Jason Arbon / Jeff Carollo , at 2018年9月
-1. 凤凰项目 by 基恩·金 (Gene Kim) / 凯文·贝尔 (Kevin Behr) / 乔治·斯帕福德 (George Spafford) , at 2018年9月
+1. :+1: 凤凰项目 by 基恩·金 (Gene Kim) / 凯文·贝尔 (Kevin Behr) / 乔治·斯帕福德 (George Spafford) , at 2018年9月
+1. :+1: 企业it架构转型之道 by 钟华 , at 2018年10月
+1. SRE Google运维解密 by 贝特西 拜尔 (Betsy Beyer) / 等 , at 2018年10月-11月
+1. Python测试驱动开发 by  哈利 • J.W. 帕西瓦尔 , at 2018年11月
 
 
 ## 杂类
@@ -116,6 +120,7 @@ personal readling list
 1. 经济解释 by 张五常 , at 2018年7月-2018年8月
 1. 重来 by [美] 贾森·弗里德 / [丹] 戴维·海涅迈尔·汉森 , at 2018年8月
 1. 女士品茶 by 戴维·萨尔斯伯格 , at 2018年6月-9月
+1. 格鲁夫给经理人的第一课 by 安迪.格鲁夫 , 2018年10月
 
 ## 电影&游戏
 
