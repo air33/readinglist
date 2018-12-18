@@ -32,7 +32,8 @@ personal readling list
 1. 道不远人∶比较哲学视域中的《老子》 by 安乐哲（Roger T.Ames） / 郝大维（David L.Hall）, 何金俐译 , at 2008年10月
 1. :+1: [文学回忆录](notes/文学回忆录.md) by 木心 , at 2017年6月
 1. 社会性动物 by Elliot Aronson , at 2018年3月-4月
-1. 有限与无限的游戏 by 詹姆斯.卡斯 at 2018年10月
+1. 有限与无限的游戏 by 詹姆斯.卡斯 , at 2018年10月
+1. 改变心理学的40项研究 by Roger R Hock , at 2018年11月-12月
 
 ## 文学
 
