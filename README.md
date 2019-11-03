@@ -109,7 +109,7 @@ personal readling list
 1. Python测试驱动开发 by  哈利 • J.W. 帕西瓦尔 , in 2018年11月
 1. 人人都是产品经理2.0 by 苏杰 , in 2018年11月 - 2018年12月
 1. 领域驱动设计 by Eric Evans , in 2019年1月-2月
-
+1. MBA教不了的创富课 by 老雕 , in 2019年10月
 
 ## 杂类
 
