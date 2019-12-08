@@ -136,6 +136,7 @@ personal readling list
 1. 薛兆丰经济学讲义 by 薛兆丰 , in 2019年6月
 1. MBA教不了的创富课 by 老雕 , in 2019年10月
 1. OKR工作法 by Christina Wodtke , in 2019年11月
+1. 关键链 by 艾利·高德拉特 , in 2019年12月
 
 
 ## 电影&游戏
