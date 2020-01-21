@@ -34,6 +34,7 @@ personal readling list
 1. 社会性动物 by Elliot Aronson , in 2018年3月-4月
 1. 有限与无限的游戏 by 詹姆斯.卡斯 , in 2018年10月
 1. 改变心理学的40项研究 by Roger R Hock , in 2018年11月-12月
+1. 禅者的初心 by 铃木俊隆 , in 2019年8月
 
 ## 文学
 
@@ -77,6 +78,7 @@ personal readling list
 1. 我的精神家园 by 王小波 , in 2018年3月
 1. 动物农场 by 乔治·奥威尔 , in 2019年2月
 1. 我与地坛 by 史铁生 , in 2019年3月
+1. 蜜蜂与远雷 by 恩田陆 , in 2019年7月
 
 ## 传记
 
