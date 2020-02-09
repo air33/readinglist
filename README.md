@@ -114,6 +114,7 @@ personal readling list
 1. 人人都是产品经理2.0 by 苏杰 , in 2018年11月 - 2018年12月
 1. 领域驱动设计 by Eric Evans , in 2019年1月-2月
 1. [知行-技术人的管理路](notes/知行.md) by 刘建国 , in 2019年11月
+1. Microservice Patterns by Chris Richardson , in 2020年1月
 
 ## 杂类
 
