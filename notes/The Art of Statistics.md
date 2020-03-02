@@ -176,7 +176,7 @@ the initial odds for a hypothesis X the likelihood ratio = the final odds for th
 
 We do not know what we are not being told
 
-People should not demonstrate the trusted, since that is granted by others, but to demonstrate the trustworthiness of their work
+People should not seek to be trusted, since that is granted by others, but to demonstrate the trustworthiness of their work
 
 ## ten simple rules for effective statistical practice
 
