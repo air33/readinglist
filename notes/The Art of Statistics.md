@@ -182,9 +182,9 @@ People should not seek to be trusted, since that is granted by others, but to de
 
 1. Statistical methods should enable data to answer scientific questions: Ask 'why am I doing this?', rather than focusing on which particular technique to use
 
-1. Signals always come with noise: It is trying to seperate out the two that makes the subject interesting . Variability is inevitable, and probability models are useful as an abstration
+1. Signals always come with noise: It is trying to separate out the two that makes the subject interesting . Variability is inevitable, and probability models are useful as an abstraction
 
-1. Plan ahead, really ahead: This includes the idea of pre-specification in confirmatory experiments - avoiding researcher degress of freedom
+1. Plan ahead, really ahead: This includes the idea of pre-specification in confirmatory experiments - avoiding researcher degrees of freedom
 
 1. Worry about data quality: Everything rests on the data.
 
