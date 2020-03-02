@@ -142,7 +142,7 @@ personal readling list
 1. MBA教不了的创富课 by 老雕 , in 2019年10月
 1. OKR工作法 by Christina Wodtke , in 2019年11月
 1. 关键链 by 艾利·高德拉特 , in 2019年12月
-1. [The Art of Statistics](notes/The Art of Statistics.md) by David Spiegelhalter , in 2020年2月
+1. [The Art of Statistics](notes/"The Art of Statistics.md") by David Spiegelhalter , in 2020年2月
 
 
 ## 电影&游戏
