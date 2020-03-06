@@ -87,6 +87,7 @@ personal readling list
 
 1. :+1: Lust For Life by Irving Stone , in 2008年6月
 1. 现代生活的画家 by 波德莱尔 , in 2009年7月
+1. 成为乔布斯 by 布伦特·施兰德 , in 2020年3月
 
 ## 历史
 
