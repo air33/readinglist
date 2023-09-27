@@ -82,6 +82,8 @@ personal readling list
 1. 我与地坛 by 史铁生 , in 2019年3月
 1. 蜜蜂与远雷 by 恩田陆 , in 2019年7月
 1. 无理时代 by 奥田英朗 , in 2020年1月
+1. 遥远的救世主 by 豆豆 , in 2021年8月
+1. 渡鸦之影 by 安东尼·雷恩 , in 2021年8月
 
 ## 传记
 
@@ -147,6 +149,7 @@ personal readling list
 1. 关键链 by 艾利·高德拉特 , in 2019年12月
 1. [The Art of Statistics](notes/The%20Art%20of%20Statistics.md) by David Spiegelhalter , in 2020年2月
 1. 故事 by 罗伯特·麦基 , in 2020年3月-6月
+1. 体验引擎游戏设计全景探秘 by Tynan Sylvester , in 2023年9月
 
 ## 电影&游戏
 
