@@ -37,6 +37,7 @@ personal readling list
 1. 禅者的初心 by 铃木俊隆 , in 2019年8月
 1. [正见](notes/正见.md) by 宗萨蒋扬钦哲仁波切 , in 2020年1月
 1. [Steal Like an Artist](notes/Steal%20Like%20an%20Artist.md) by Austin Kleon , in 2020年3月
+1. [自我发展心理学](notes/自我发展心理学.md) by 陈海贤, in 2023年10月
 
 ## 文学
 
