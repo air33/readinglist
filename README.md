@@ -38,6 +38,7 @@ personal readling list
 1. [正见](notes/正见.md) by 宗萨蒋扬钦哲仁波切 , in 2020年1月
 1. [Steal Like an Artist](notes/Steal%20Like%20an%20Artist.md) by Austin Kleon , in 2020年3月
 1. [自我发展心理学](notes/自我发展心理学.md) by 陈海贤, in 2023年10月
+1. 人生的智慧 by 叔本华 , in 2025年4月
 
 ## 文学
 
@@ -85,12 +86,18 @@ personal readling list
 1. 无理时代 by 奥田英朗 , in 2020年1月
 1. 遥远的救世主 by 豆豆 , in 2021年8月
 1. 渡鸦之影 by 安东尼·雷恩 , in 2021年8月
+1. 2001: 太空漫游 by 阿瑟·克拉克 , in 2026年1月
+1. 挽救计划 by 安迪·威尔 , in 2026年4月
 
 ## 传记
 
 1. :+1: Lust For Life by Irving Stone , in 2008年6月
 1. 现代生活的画家 by 波德莱尔 , in 2009年7月
 1. 成为乔布斯 by 布伦特·施兰德 , in 2020年3月
+1. 一生的旅程 by 罗伯特·艾格 , in 2024年10月
+1. 我看见的世界 by 李飞飞 , in 2025年2月
+1. 征服市场的人 by 格里高利·祖克曼 , in 2025年3月
+
 
 ## 历史
 
@@ -100,6 +107,9 @@ personal readling list
 1. 万历十五年 by 黄仁宇 , in 2017年11月
 1. 伟大的博弈 by 约翰S.戈登 , in 2018年2月
 1. 人类简史 by 尤瓦尔·赫拉利 , in 2018年4月
+1. 五百年来王阳明 by 郦波 , in 2024年11月
+1. 剪商 by 李硕 , in 2025年1月
+1. 美国困局: "新右翼"的兴起和挑战 by 强舸 , in  2025年3月
 
 ## 技术
 
@@ -121,6 +131,10 @@ personal readling list
 1. [知行-技术人的管理路](notes/知行.md) by 刘建国 , in 2019年11月
 1. Microservice Patterns by Chris Richardson , in 2020年1月
 1. 软件架构设计 by 余春龙 , in 2020年5月
+1. 发布! 设计与部署稳定的分布式系统 by 迈克尔·尼加德 , in 2024年7月
+1. Chatgpt原理和应用开发 by 郝少春 , in 2024年12月
+1. 智慧的疆界：从图灵机到人工智能 by 周志明 , in 2025年3月
+1. 深度学习进阶 by 斋藤康毅 , in 2026年6月
 
 ## 杂类
 
@@ -151,6 +165,9 @@ personal readling list
 1. [The Art of Statistics](notes/The%20Art%20of%20Statistics.md) by David Spiegelhalter , in 2020年2月
 1. 故事 by 罗伯特·麦基 , in 2020年3月-6月
 1. 体验引擎游戏设计全景探秘 by Tynan Sylvester , in 2023年9月
+1. 七堂极简物理课 by 卡洛·罗韦利 , in 2025年3月
+1. 管理思想史 by 丹尼尔·雷恩 , in 2025年7月
+1. 创业维艰 by 本·霍洛维茨 , in 2025年9月
 
 ## 电影&游戏
 
