@@ -175,3 +175,5 @@ personal readling list
 1. :+1: [Inside](http://store.steampowered.com/app/304430/INSIDE/), by Playdead , in 2017年1月
 1. :+1: [Life is strange](http://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/) , by DONTNOD , in 2017年10月
 1. :+1: [To The Moon](notes/to_the_moon.md), by Freebird Games , in 2016-2017年10月
+1. 艾尔登法环, by From Software, in 2022年
+1. 艾尔登法环：黑夜君临, by From Software, in 2025-2026年
